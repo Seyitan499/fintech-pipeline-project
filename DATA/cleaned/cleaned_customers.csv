@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,gender,city,signup_date
+C001,Christopher,Carter,Male,Port Harcourt,2025-04-09
+C002,Tracy,Hendrix,Male,Abuja,2026-01-29
+C003,Bonnie,Ponce,Male,Abuja,2025-08-29
+C004,Maureen,Perry,Female,Lagos,2024-07-26
+C005,Sheila,Morales,Male,Lagos,2025-11-14
+C006,Timothy,Moore,Male,Lagos,2024-06-20
+C007,Kelsey,Bender,Female,Lagos,2025-09-20
+C008,Christopher,Thompson,Female,Abuja,2024-12-24
+C009,Cynthia,Baker,Female,Lagos,2025-06-03
+C010,Jermaine,Nichols,Female,Abuja,2024-07-04
+C011,David,Martinez,Male,Lagos,2026-02-13
+C012,Christine,Smith,Female,Abuja,2024-06-29
+C013,Sandra,Reid,Male,Port Harcourt,2024-08-07
+C014,Jennifer,Roy,Male,Lagos,2025-02-03
+C015,Courtney,Cook,Female,Lagos,2025-03-10
+C016,Andrew,Jones,Male,Lagos,2024-10-06
+C017,Jorge,Hansen,Male,Abuja,2025-01-13
+C018,Andrew,Jones,Male,Abuja,2024-06-01
+C019,Julia,Silva,Female,Lagos,2024-12-12
+C020,Cory,Barrett,Male,Lagos,2025-10-04
+C021,Emily,Edwards,Female,Abuja,2025-10-27
+C022,Ernest,Robertson,Female,Abuja,2026-03-02
+C023,Melissa,Wilkerson,Male,Port Harcourt,2025-07-10
+C024,Charles,Hicks,Female,Lagos,2024-05-25
+C025,Cody,Sims,Male,Port Harcourt,2025-03-12
+C026,Alison,Cox,Female,Abuja,2025-11-02
+C027,Kristi,Long,Male,Abuja,2025-07-11
+C028,Elizabeth,Merritt,Male,Port Harcourt,2025-01-05
+C029,Kenneth,Chase,Female,Port Harcourt,2024-11-01
+C030,Samuel,Nelson,Male,Port Harcourt,2024-12-10
+C031,Richard,Ali,Female,Lagos,2024-05-07
+C032,Jessica,Martinez,Male,Lagos,2024-07-30
+C033,Joseph,Williams,Male,Port Harcourt,2024-08-30
+C034,Jaime,Arnold,Female,Port Harcourt,2025-03-13
+C035,Daniel,Johnson,Male,Lagos,2025-09-24
+C036,Renee,Palmer,Female,Lagos,2025-11-30
+C037,Ronnie,Garcia,Male,Port Harcourt,2025-07-12
+C038,Mark,Shea,Male,Lagos,2024-09-24
+C039,Beverly,Buchanan,Female,Port Harcourt,2025-03-07
+C040,Michelle,Martinez,Female,Lagos,2025-07-17
+C041,Aaron,Leach,Male,Port Harcourt,2025-12-04
+C042,Gabriela,Scott,Male,Port Harcourt,2024-12-03
+C043,Spencer,Thornton,Female,Port Harcourt,2025-09-24
+C044,Sara,Moses,Female,Lagos,2025-05-15
+C045,Amanda,Burton,Male,Lagos,2025-02-19
+C046,Melody,Miller,Male,Port Harcourt,2024-05-30
+C047,Nathan,Williams,Male,Port Harcourt,2025-05-16
+C048,Aaron,Melton,Male,Abuja,2025-12-10
+C049,Cathy,Montgomery,Female,Port Harcourt,2025-05-07
+C050,Joshua,Sanders,Male,Abuja,2024-10-04
+C051,Jared,Harris,Male,Lagos,2025-12-31
+C052,Katrina,Bradley,Male,Abuja,2025-01-16
+C053,Cody,Reese,Male,Lagos,2025-12-14
+C054,Pamela,Gonzalez,Female,Port Harcourt,2024-12-18
+C055,Melissa,Logan,Female,Lagos,2025-02-08
+C056,Leah,Ryan,Male,Port Harcourt,2024-09-30
+C057,Gabriel,Perez,Male,Abuja,2025-04-26
+C058,Ashley,Anderson,Female,Lagos,2025-08-17
+C059,James,Brewer,Female,Port Harcourt,2025-09-11
+C060,Lisa,Jones,Female,Abuja,2024-10-16
+C061,Kristina,Wilson,Female,Port Harcourt,2025-12-09
+C062,Stephen,Riley,Male,Port Harcourt,2025-12-05
+C063,Joshua,Williams,Female,Abuja,2025-04-02
+C064,Dennis,Reynolds,Male,Port Harcourt,2024-10-30
+C065,Thomas,Todd,Male,Port Harcourt,2026-03-09
+C066,Holly,Griffin,Male,Lagos,2025-07-12
+C067,Michael,Richardson,Male,Abuja,2026-02-09
+C068,Laura,Walker,Female,Lagos,2026-02-24
+C069,Wanda,Bird,Female,Lagos,2024-06-28
+C070,Jeffery,Fisher,Male,Lagos,2025-11-13
+C071,Jimmy,Fox,Female,Abuja,2025-05-25
+C072,Jessica,Perez,Male,Abuja,2025-07-17
+C073,Alicia,Jimenez,Male,Lagos,2024-09-13
+C074,Michael,Williams,Male,Abuja,2024-05-21
+C075,Mary,Christensen,Female,Lagos,2025-01-11
+C076,Crystal,Butler,Female,Abuja,2025-12-04
+C077,Randy,Navarro,Female,Lagos,2024-11-06
+C078,Timothy,Decker,Male,Port Harcourt,2024-12-23
+C079,Tiffany,Smith,Female,Port Harcourt,2025-04-08
+C080,Michael,Clark,Male,Abuja,2026-03-30
+C081,David,Walker,Male,Abuja,2024-10-26
+C082,Maria,Sanchez,Female,Abuja,2025-08-07
+C083,Lauren,Davis,Female,Lagos,2025-03-09
+C084,Isaac,Taylor,Male,Abuja,2025-11-09
+C085,Michael,Ray,Male,Lagos,2025-01-19
+C086,Brittany,Williams,Male,Lagos,2025-10-26
+C087,Katherine,Warren,Male,Abuja,2024-05-10
+C088,Kim,Campbell,Female,Lagos,2024-07-20
+C089,Stephanie,Bautista,Male,Port Harcourt,2025-01-30
+C090,Rachel,Anderson,Female,Port Harcourt,2025-11-30
+C091,Jennifer,Valentine,Female,Lagos,2025-10-13
+C092,William,Larson,Male,Port Harcourt,2026-03-01
+C093,Jacob,Manning,Female,Port Harcourt,2024-09-01
+C094,Linda,Walls,Male,Lagos,2025-10-23
+C095,Nicole,Hammond,Male,Port Harcourt,2024-10-17
+C096,Cassandra,Santos,Male,Abuja,2026-01-12
+C097,Lawrence,King,Female,Port Harcourt,2025-10-17
+C098,Pamela,Johnson,Female,Port Harcourt,2024-07-14
+C099,Todd,Aguilar,Female,Port Harcourt,2024-11-04
+C100,Nicholas,Williams,Female,Abuja,2024-10-23
